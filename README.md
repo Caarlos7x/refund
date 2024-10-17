@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Projeto - Refund" src="https://i.imgur.com/Y3dc7AE.png" width="200px" />
+  <img alt="Projeto - Refund" src="https://i.imgur.com/Y3dc7AE.png" width="500px" />
 </p>
 
 <p align="center">

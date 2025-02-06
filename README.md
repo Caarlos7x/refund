@@ -18,16 +18,41 @@ Aplicação desenvolvida na Formação Fullstack da Rocketseat.
 
 <br>
 
+# Refund
 
+Aplicação desenvolvida na Formação Fullstack da Rocketseat.
 
-## 🚀 Tecnologias
+## Tecnologias Utilizadas
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+- **HTML**
+- **CSS**
+- **JavaScript**
 
-- HTML
-- CSS
-- JavaScript
+## Estrutura de Pastas
 
-## Projeto
+A estrutura principal do projeto é a seguinte:
 
-Projeto com as funcionalidades de uma aplicação de Solicitação de reembolso.
+- **assets/**: Contém ícones e outros recursos estáticos.
+- **refund-template/**: Inclui templates relacionados à funcionalidade de solicitação de reembolso.
+- **services/**: Contém scripts JavaScript que gerenciam a lógica da aplicação.
+- **styles/**: Inclui arquivos CSS para estilização da aplicação.
+
+## Instalação e Uso
+
+Para visualizar o projeto localmente, siga os seguintes passos:
+
+1. **Clone o repositório**:
+
+   ```bash
+   git clone https://github.com/Caarlos7x/refund.git
+   cd refund
+
+2. **Abra o arquivo index.html**:
+
+Abra o arquivo index.html no seu navegador preferido para visualizar a aplicação.
+
+## Contribuição
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests para sugerir melhorias ou corrigir bugs.
+
+## Licença
+Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
